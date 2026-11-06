@@ -1,0 +1,3 @@
+level,mean_sd_urban_pp,mean_sd_nourban_pp,median_sd_urban_pp,median_sd_nourban_pp,share_units_sd_above_10pp_urban,share_units_urban_sd_smaller,mean_direct_se_pp_units_with_data,mean_mbg_se_ci_pp,mean_sae_se_ci_pp
+admin2,11.46,12.15,11.03,11.7,70.7,72.8,7.35,8.5,11.25
+admin3,16.32,18.6,15.87,17.81,98.2,95.6,1.4,10.12,15.66

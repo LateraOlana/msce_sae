@@ -1,0 +1,10 @@
+step,n
+children aged 12-23 months in the extract,1067
+MCV1 status missing (no card and no recall answer),68
+children with a known MCV1 status (analytic sample),999
+clusters with at least one child in the analytic sample,285
+vaccinated (MCV1 = 1),575
+  documented on a vaccination card only,393
+  caregiver recall only,163
+  card and recall,19
+vaccination card seen by the interviewer (analytic sample),425

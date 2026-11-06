@@ -1,0 +1,19 @@
+level,comparison,subset,n,pearson,spearman
+admin2,posterior SD: with urban vs without urban,all units,92,0.94,0.933
+admin2,direct SE vs posterior SD (urban model),units with data,74,-0.218,-0.31
+admin2,direct SE vs posterior SD (no-urban model),units with data,74,-0.253,-0.349
+admin2,direct vs model-based coverage (urban model),units with data,74,0.839,0.857
+admin2,direct vs model-based coverage (urban model),reliable direct estimates,55,0.905,0.9
+admin2,direct vs model-based coverage (no-urban model),units with data,74,0.852,0.865
+admin2,model-based (urban) vs MBG coverage,all units,92,0.921,0.908
+admin2,model-based (urban) CI-based SE vs MBG CI-based SE,all units,92,0.611,0.6
+admin2,model-based (urban) posterior SD vs MBG CI-based SE,all units,92,0.6,0.59
+admin3,posterior SD: with urban vs without urban,all units,1082,0.926,0.928
+admin3,direct SE vs posterior SD (urban model),units with data,213,-0.192,-0.187
+admin3,direct SE vs posterior SD (no-urban model),units with data,213,-0.26,-0.209
+admin3,direct vs model-based coverage (urban model),units with data,213,0.799,0.811
+admin3,direct vs model-based coverage (urban model),reliable direct estimates,27,0.845,0.839
+admin3,direct vs model-based coverage (no-urban model),units with data,213,0.842,0.839
+admin3,model-based (urban) vs MBG coverage,all units,1082,0.824,0.802
+admin3,model-based (urban) CI-based SE vs MBG CI-based SE,all units,1082,0.38,0.353
+admin3,model-based (urban) posterior SD vs MBG CI-based SE,all units,1082,0.36,0.35

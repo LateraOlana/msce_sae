@@ -1,0 +1,3 @@
+level,n_clusters,share_clusters_all_vaccinated,share_clusters_none_vaccinated,mean_randomised_pit,sd_randomised_pit,share_pit_below_0.05,share_pit_above_0.95,ks_p_value_vs_uniform,cpo_failures
+admin2,285,37.5,16.1,0.483,0.273,2.8,4.2,0.047,0
+admin3,285,37.5,16.1,0.455,0.261,2.8,3.9,0.001,0

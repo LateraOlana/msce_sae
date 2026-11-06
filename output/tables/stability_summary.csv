@@ -1,0 +1,65 @@
+level,method,group,band,n,share
+admin2,beta_approx,n units,all,92,
+admin2,beta_approx,n units,bottom quintile by point estimate,18,
+admin2,beta_approx,n units,prob >= 70% (highlighted),5,
+admin2,beta_approx,"point-estimate bottom quintile, by certainty band (coarse)",<50%,3,16.7
+admin2,beta_approx,"point-estimate bottom quintile, by certainty band (coarse)",50-60%,3,16.7
+admin2,beta_approx,"point-estimate bottom quintile, by certainty band (coarse)",60-70%,7,38.9
+admin2,beta_approx,"point-estimate bottom quintile, by certainty band (coarse)",70-80%,3,16.7
+admin2,beta_approx,"point-estimate bottom quintile, by certainty band (coarse)",>=80%,2,11.1
+admin2,beta_approx,"point-estimate bottom quintile, by certainty band (fine)",<30%,0,0
+admin2,beta_approx,"point-estimate bottom quintile, by certainty band (fine)",30-40%,1,5.6
+admin2,beta_approx,"point-estimate bottom quintile, by certainty band (fine)",40-50%,2,11.1
+admin2,beta_approx,"point-estimate bottom quintile, by certainty band (fine)",50-60%,3,16.7
+admin2,beta_approx,"point-estimate bottom quintile, by certainty band (fine)",60-70%,7,38.9
+admin2,beta_approx,"point-estimate bottom quintile, by certainty band (fine)",70-80%,3,16.7
+admin2,beta_approx,"point-estimate bottom quintile, by certainty band (fine)",>=80%,2,11.1
+admin2,beta_approx,exceedance,mean P(coverage > 90%),,1.53
+admin2,posterior,n units,all,92,
+admin2,posterior,n units,bottom quintile by point estimate,18,
+admin2,posterior,n units,prob >= 70% (highlighted),6,
+admin2,posterior,"point-estimate bottom quintile, by certainty band (coarse)",<50%,3,16.7
+admin2,posterior,"point-estimate bottom quintile, by certainty band (coarse)",50-60%,2,11.1
+admin2,posterior,"point-estimate bottom quintile, by certainty band (coarse)",60-70%,7,38.9
+admin2,posterior,"point-estimate bottom quintile, by certainty band (coarse)",70-80%,4,22.2
+admin2,posterior,"point-estimate bottom quintile, by certainty band (coarse)",>=80%,2,11.1
+admin2,posterior,"point-estimate bottom quintile, by certainty band (fine)",<30%,0,0
+admin2,posterior,"point-estimate bottom quintile, by certainty band (fine)",30-40%,1,5.6
+admin2,posterior,"point-estimate bottom quintile, by certainty band (fine)",40-50%,2,11.1
+admin2,posterior,"point-estimate bottom quintile, by certainty band (fine)",50-60%,2,11.1
+admin2,posterior,"point-estimate bottom quintile, by certainty band (fine)",60-70%,7,38.9
+admin2,posterior,"point-estimate bottom quintile, by certainty band (fine)",70-80%,4,22.2
+admin2,posterior,"point-estimate bottom quintile, by certainty band (fine)",>=80%,2,11.1
+admin2,posterior,exceedance,mean P(coverage > 90%),,2.26
+admin3,beta_approx,n units,all,1082,
+admin3,beta_approx,n units,bottom quintile by point estimate,216,
+admin3,beta_approx,n units,prob >= 70% (highlighted),31,
+admin3,beta_approx,"point-estimate bottom quintile, by certainty band (coarse)",<50%,96,44.4
+admin3,beta_approx,"point-estimate bottom quintile, by certainty band (coarse)",50-60%,52,24.1
+admin3,beta_approx,"point-estimate bottom quintile, by certainty band (coarse)",60-70%,37,17.1
+admin3,beta_approx,"point-estimate bottom quintile, by certainty band (coarse)",70-80%,19,8.8
+admin3,beta_approx,"point-estimate bottom quintile, by certainty band (coarse)",>=80%,12,5.6
+admin3,beta_approx,"point-estimate bottom quintile, by certainty band (fine)",<30%,0,0
+admin3,beta_approx,"point-estimate bottom quintile, by certainty band (fine)",30-40%,48,22.2
+admin3,beta_approx,"point-estimate bottom quintile, by certainty band (fine)",40-50%,48,22.2
+admin3,beta_approx,"point-estimate bottom quintile, by certainty band (fine)",50-60%,52,24.1
+admin3,beta_approx,"point-estimate bottom quintile, by certainty band (fine)",60-70%,37,17.1
+admin3,beta_approx,"point-estimate bottom quintile, by certainty band (fine)",70-80%,19,8.8
+admin3,beta_approx,"point-estimate bottom quintile, by certainty band (fine)",>=80%,12,5.6
+admin3,beta_approx,exceedance,mean P(coverage > 90%),,3.01
+admin3,posterior,n units,all,1082,
+admin3,posterior,n units,bottom quintile by point estimate,216,
+admin3,posterior,n units,prob >= 70% (highlighted),43,
+admin3,posterior,"point-estimate bottom quintile, by certainty band (coarse)",<50%,89,41.2
+admin3,posterior,"point-estimate bottom quintile, by certainty band (coarse)",50-60%,45,20.8
+admin3,posterior,"point-estimate bottom quintile, by certainty band (coarse)",60-70%,39,18.1
+admin3,posterior,"point-estimate bottom quintile, by certainty band (coarse)",70-80%,27,12.5
+admin3,posterior,"point-estimate bottom quintile, by certainty band (coarse)",>=80%,16,7.4
+admin3,posterior,"point-estimate bottom quintile, by certainty band (fine)",<30%,1,0.5
+admin3,posterior,"point-estimate bottom quintile, by certainty band (fine)",30-40%,42,19.4
+admin3,posterior,"point-estimate bottom quintile, by certainty band (fine)",40-50%,46,21.3
+admin3,posterior,"point-estimate bottom quintile, by certainty band (fine)",50-60%,45,20.8
+admin3,posterior,"point-estimate bottom quintile, by certainty band (fine)",60-70%,39,18.1
+admin3,posterior,"point-estimate bottom quintile, by certainty band (fine)",70-80%,27,12.5
+admin3,posterior,"point-estimate bottom quintile, by certainty band (fine)",>=80%,16,7.4
+admin3,posterior,exceedance,mean P(coverage > 90%),,6.13

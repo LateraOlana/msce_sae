@@ -1,0 +1,3 @@
+subset,n,correlation,mean_taylor_pp,mean_boot_pp,ratio_of_means,mean_ratio,median_ratio,pct_diff_ratio_of_means
+all units with data,74,0.954,7.35,9.4,0.782,,,-21.8
+reliable units (both SEs > 0),55,0.915,9.88,12.65,0.782,0.79,0.816,-21.8

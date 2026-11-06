@@ -1,0 +1,27 @@
+level,ADM1_EN,n_units,max_increase_pp,median_diff_pp,share_below_regional_se,share_nonzero_se,share_increase_gt10pp
+admin3,Gambela,11,19.7,-5.7,72.7,36.4,9.1
+admin3,Dire Dawa,9,18.8,-6.6,55.6,44.4,22.2
+admin3,Amhara,27,14.3,-6.1,96.3,7.4,3.7
+admin3,Benishangul Gumz,14,12.4,-5.4,85.7,28.6,14.3
+admin3,Somali,22,12.2,-5.9,95.5,4.5,4.5
+admin3,Addis Ababa,11,10.8,-3.3,72.7,27.3,9.1
+admin3,Harari,8,9.9,-1.6,50,62.5,0
+admin3,SNNP,21,2.6,-8.5,95.2,9.5,0
+admin3,Afar,22,-0.3,-5.7,100,9.1,0
+admin3,Tigray,24,-5.5,-5.5,100,0,0
+admin3,Oromia,32,-6.5,-6.5,100,0,0
+admin3,Sidama,7,-12.1,-12.1,100,0,0
+admin3,South West Ethiopia,5,-14,-14,100,0,0
+admin2,Oromia,16,16.8,-2.7,62.5,62.5,25
+admin2,SNNP,11,13.7,-2.8,63.6,63.6,9.1
+admin2,Amhara,11,13.3,2.2,36.4,63.6,9.1
+admin2,Benishangul Gumz,4,12.4,2.5,50,75,25
+admin2,Somali,9,10.6,1.9,44.4,77.8,11.1
+admin2,Tigray,6,8.2,4.5,16.7,100,0
+admin2,Afar,5,4.4,1.7,40,100,0
+admin2,Dire Dawa,2,4.3,2.6,0,100,0
+admin2,Gambela,4,2.9,-2,75,100,0
+admin2,South West Ethiopia,3,2.4,-14,66.7,33.3,0
+admin2,Addis Ababa,1,0,0,0,100,0
+admin2,Harari,1,0,0,0,100,0
+admin2,Sidama,1,0,0,0,100,0

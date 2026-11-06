@@ -1,0 +1,22 @@
+quantity,value
+age filter (age_year),1
+children in extract,1067
+vaccination responses (non-missing MCV1),999
+vaccinated (n),575
+vaccinated (%),57.6
+clusters with responses,285
+admin2 units (total),92
+admin2 units with no cluster,18
+admin2 units with data,74
+admin2 units with n <= 5,15
+admin2 units homogeneous (all 0 or all 1),10
+admin2 max responses per unit,73
+admin3 units (total),1082
+admin3 units with no cluster,869
+admin3 units with data,213
+admin3 units with n <= 5,150
+admin3 units homogeneous (all 0 or all 1),97
+admin3 max responses per unit,32
+"CV of sampling weights, overall",1.234
+"CV of sampling weights, within strata (median)",0.204
+"CV of sampling weights, within strata (max)",0.412

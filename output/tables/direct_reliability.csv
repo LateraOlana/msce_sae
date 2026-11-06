@@ -1,0 +1,22 @@
+level,quantity,value
+admin2,units with data,74
+admin2,near-zero SE (n),19
+admin2,near-zero SE (%),25.7
+admin2,near-zero SE and n <= 5 (n),14
+admin2,near-zero SE and homogeneous (n),10
+admin2,flagged unreliable (%),25.7
+admin2,median SE among reliable (pp),9
+admin2,min SE among reliable (pp),2.4
+admin2,max SE among reliable (pp),23.2
+admin2,units with SE < 10 pp among reliable (%),58.2
+admin3,units with data,213
+admin3,near-zero SE (n),186
+admin3,near-zero SE (%),87.3
+admin3,near-zero SE and n <= 5 (n),148
+admin3,near-zero SE and homogeneous (n),97
+admin3,flagged unreliable (%),87.3
+admin3,median SE among reliable (pp),9.4
+admin3,min SE among reliable (pp),1.5
+admin3,max SE among reliable (pp),25.4
+admin3,units with SE < 10 pp among reliable (%),51.9
+admin1,median SE (pp),6.1

@@ -1,0 +1,4 @@
+level,units,with_data,without_data,without_data_pct,n_le_5,homogeneous,clusters_median,clusters_max,responses_median,responses_max,responses_total,median_direct_se_pp,median_posterior_sd_pp
+First (regions),13,13,0,0,0,0,24,32,82,126,999,6.1,NA
+Second (zones),92,74,18,19.6,15,10,3,24,9.5,73,999,7.2,11
+Third (woredas),1082,213,869,80.3,150,97,1,10,4,32,999,0,15.9

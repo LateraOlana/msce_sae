@@ -1,0 +1,3 @@
+level,n_regions,national_model_pct,national_direct_pct,region_pearson,region_bias_pp,region_mae_pp,region_rmse_pp,regions_within_direct_ci
+admin2,13,59.1,59.2,0.971,-0.1,5.3,6.3,12
+admin3,13,59,59.2,0.956,0,6.6,8.1,12

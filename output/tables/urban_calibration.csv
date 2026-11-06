@@ -1,0 +1,12 @@
+survey_region,ghsl_pop_share_area_classes,ghsl_pop_share_urban_classes,calibrated_share,survey_urban_share
+Addis Ababa,0.903,0.99,1,1
+Afar,0.04,0.378,0.371,0.371
+Amhara,0.187,0.355,0.308,0.308
+Benishangul-Gumuz,0.083,0.356,0.307,0.307
+Dire Dawa,0.621,0.875,0.494,0.494
+Gambela,0.124,0.54,0.517,0.517
+Harari,0.786,0.7,0.424,0.424
+Oromia,0.194,0.35,0.237,0.237
+SNNPR,0.493,0.343,0.316,0.316
+Somali,0.04,0.593,0.321,0.321
+Tigray,0.19,0.398,0.304,0.304

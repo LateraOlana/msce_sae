@@ -1,0 +1,4 @@
+* text=auto
+*.rds binary
+*.png binary
+*.tiff binary
